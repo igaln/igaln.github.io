@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Unity-iPhone.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>CCBD793359AB4B76B5042E735ED5E4AC691393DD</string>
+				<key>dateExpires</key>
+				<string>3/10/19</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>CCBD793359AB4B76B5042E735ED5E4AC691393DD</string>
+						<key>dateExpires</key>
+						<string>3/10/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>BrightReplayKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>KFR2M8L8ME</string>
+						<key>name</key>
+						<string>QUANTIZE LLC</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>KFR2M8L8ME.me.superbright.perfectday</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>KFR2M8L8ME</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>KFR2M8L8ME.me.superbright.perfectday</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>perfectday.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>bcc1e254-c209-4c36-8602-b20a1e13e46c</string>
+				<key>name</key>
+				<string>PerfectDayAdhoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>KFR2M8L8ME</string>
+				<key>name</key>
+				<string>QUANTIZE LLC</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
